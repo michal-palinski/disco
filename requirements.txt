@@ -1,0 +1,14 @@
+serpapi
+python-dateutil
+newspaper4k
+openai
+python-dotenv
+bertopic
+streamlit
+plotly
+scikit-learn
+pandas
+voyageai
+numpy
+odfpy
+
