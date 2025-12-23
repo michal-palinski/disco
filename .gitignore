@@ -1,0 +1,53 @@
+# Environment variables
+.env
+
+# Database files
+*.db
+*.db-journal
+
+# Data exports
+*.csv
+*.ods
+
+# Batch API files
+batch_requests.jsonl
+batch_output.jsonl
+batch_errors.jsonl
+batch_results.jsonl
+batch_info.txt
+cultural_filter_batch.jsonl
+cultural_filter_results.jsonl
+cultural_filter_batch_info.txt
+
+# Model files (too large for git)
+topic_model.pkl
+embeddings.npy
+topics_data.csv
+topic_descriptions.json
+topic_merge_suggestions.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
