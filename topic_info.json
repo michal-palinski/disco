@@ -1,0 +1,371 @@
+{
+  "-1": {
+    "name": "-1_Media Content Discoverability",
+    "count": 158,
+    "keywords": [],
+    "representation": [
+      "Media Content Discoverability"
+    ]
+  },
+  "0": {
+    "name": "0_Streaming Content Discoverability",
+    "count": 102,
+    "keywords": [
+      "content",
+      "discoverability",
+      "streaming",
+      "tv",
+      "user",
+      "platforms",
+      "viewers",
+      "content discoverability",
+      "users",
+      "experience"
+    ],
+    "representation": [
+      "Streaming Content Discoverability"
+    ]
+  },
+  "1": {
+    "name": "1_Canadian Content Discoverability",
+    "count": 82,
+    "keywords": [
+      "canadian",
+      "content",
+      "canadian content",
+      "streaming",
+      "platforms",
+      "discoverability",
+      "act",
+      "services",
+      "frenchlanguage",
+      "cultural"
+    ],
+    "representation": [
+      "Canadian Content Discoverability"
+    ]
+  },
+  "2": {
+    "name": "2_Game Content Discoverability",
+    "count": 71,
+    "keywords": [
+      "games",
+      "game",
+      "gaming",
+      "developers",
+      "discoverability",
+      "indie",
+      "titles",
+      "visibility",
+      "mobile",
+      "players"
+    ],
+    "representation": [
+      "Game Content Discoverability"
+    ]
+  },
+  "3": {
+    "name": "3_Music Discoverability Ecosystem",
+    "count": 67,
+    "keywords": [
+      "music",
+      "artists",
+      "discoverability",
+      "platforms",
+      "content",
+      "tiktok",
+      "streaming",
+      "visibility",
+      "songs",
+      "like"
+    ],
+    "representation": [
+      "Music Discoverability Ecosystem"
+    ]
+  },
+  "4": {
+    "name": "4_Podcast Discoverability Strategies",
+    "count": 66,
+    "keywords": [
+      "podcasts",
+      "podcast",
+      "audio",
+      "content",
+      "discoverability",
+      "podcasting",
+      "listeners",
+      "creators",
+      "platform",
+      "audio content"
+    ],
+    "representation": [
+      "Podcast Discoverability Strategies"
+    ]
+  },
+  "5": {
+    "name": "5_AI-Powered Content Discovery",
+    "count": 55,
+    "keywords": [
+      "content",
+      "video",
+      "discoverability",
+      "enhancing",
+      "ai",
+      "engagement",
+      "visibility",
+      "metadata",
+      "partnership",
+      "improving"
+    ],
+    "representation": [
+      "AI-Powered Content Discovery"
+    ]
+  },
+  "6": {
+    "name": "6_Social Media Discoverability",
+    "count": 52,
+    "keywords": [
+      "tiktok",
+      "content",
+      "tiktoks",
+      "discoverability",
+      "creators",
+      "platforms",
+      "users",
+      "platform",
+      "article",
+      "harmful"
+    ],
+    "representation": [
+      "Social Media Discoverability"
+    ]
+  },
+  "7": {
+    "name": "7_Cultural Content Discoverability",
+    "count": 44,
+    "keywords": [
+      "content",
+      "cultural",
+      "discoverability",
+      "cultural content",
+      "digital",
+      "article",
+      "visibility",
+      "content discoverability",
+      "media",
+      "diverse"
+    ],
+    "representation": [
+      "Cultural Content Discoverability"
+    ]
+  },
+  "8": {
+    "name": "8_Discoverability in Publishing",
+    "count": 30,
+    "keywords": [
+      "authors",
+      "books",
+      "book",
+      "publishing",
+      "marketing",
+      "readers",
+      "discoverability",
+      "visibility",
+      "publishers",
+      "strategies"
+    ],
+    "representation": [
+      "Discoverability in Publishing"
+    ]
+  },
+  "9": {
+    "name": "9_AI Content Discoverability",
+    "count": 27,
+    "keywords": [
+      "ai",
+      "content",
+      "search",
+      "llm",
+      "discoverability",
+      "structured",
+      "visibility",
+      "aidriven",
+      "metadata",
+      "brands"
+    ],
+    "representation": [
+      "AI Content Discoverability"
+    ]
+  },
+  "10": {
+    "name": "10_Creator Discoverability Platforms",
+    "count": 25,
+    "keywords": [
+      "creators",
+      "platform",
+      "content",
+      "creator",
+      "discoverability",
+      "monetization",
+      "features",
+      "engagement",
+      "visibility",
+      "tools"
+    ],
+    "representation": [
+      "Creator Discoverability Platforms"
+    ]
+  },
+  "11": {
+    "name": "11_Spotify Russian Media Discoverability",
+    "count": 24,
+    "keywords": [
+      "russian",
+      "spotify",
+      "content",
+      "response",
+      "discoverability",
+      "state",
+      "media",
+      "operations",
+      "conflict",
+      "content discoverability"
+    ],
+    "representation": [
+      "Spotify Russian Media Discoverability"
+    ]
+  },
+  "12": {
+    "name": "12_YouTube Content Discoverability",
+    "count": 22,
+    "keywords": [
+      "youtube",
+      "tags",
+      "creators",
+      "videos",
+      "youtubes",
+      "content",
+      "video",
+      "discoverability",
+      "shorts",
+      "engagement"
+    ],
+    "representation": [
+      "YouTube Content Discoverability"
+    ]
+  },
+  "13": {
+    "name": "13_Streaming Discoverability & Inclusion",
+    "count": 18,
+    "keywords": [
+      "twitch",
+      "streamers",
+      "creators",
+      "discoverability",
+      "community",
+      "content",
+      "platform",
+      "visibility",
+      "new",
+      "marginalized"
+    ],
+    "representation": [
+      "Streaming Discoverability & Inclusion"
+    ]
+  },
+  "14": {
+    "name": "14_Creative Market Discoverability",
+    "count": 15,
+    "keywords": [
+      "fame",
+      "products",
+      "filipino",
+      "buyers",
+      "event",
+      "food",
+      "digital",
+      "local",
+      "design",
+      "global"
+    ],
+    "representation": [
+      "Creative Market Discoverability"
+    ]
+  },
+  "15": {
+    "name": "15_Scholarly Content Discoverability",
+    "count": 14,
+    "keywords": [
+      "libraries",
+      "research",
+      "publishing",
+      "discovery",
+      "access",
+      "discoverability",
+      "library",
+      "content",
+      "open",
+      "metadata"
+    ],
+    "representation": [
+      "Scholarly Content Discoverability"
+    ]
+  },
+  "16": {
+    "name": "16_Australian Music Discoverability",
+    "count": 14,
+    "keywords": [
+      "music",
+      "australian",
+      "australian music",
+      "artists",
+      "local",
+      "australia",
+      "streaming",
+      "music australia",
+      "industry",
+      "discoverability australian"
+    ],
+    "representation": [
+      "Australian Music Discoverability"
+    ]
+  },
+  "17": {
+    "name": "17_AI-Powered Content Discoverability",
+    "count": 11,
+    "keywords": [
+      "assets",
+      "asset",
+      "management",
+      "digital",
+      "solutions",
+      "search",
+      "digital assets",
+      "content",
+      "image",
+      "discoverability"
+    ],
+    "representation": [
+      "AI-Powered Content Discoverability"
+    ]
+  },
+  "18": {
+    "name": "18_NFT Discoverability Platforms",
+    "count": 11,
+    "keywords": [
+      "nft",
+      "nfts",
+      "artworks",
+      "creators",
+      "digital",
+      "blockchain",
+      "marketplace",
+      "platform",
+      "discoverability",
+      "space"
+    ],
+    "representation": [
+      "NFT Discoverability Platforms"
+    ]
+  }
+}
