@@ -2,8 +2,6 @@
 .env
 
 # Database files
-*.db
-*.db-journal
 
 # Data exports
 *.csv
